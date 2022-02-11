@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak
-- 👀 I’m interested in Developing Apps
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
