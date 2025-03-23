@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Deepak
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on DevOps
+
+
+  
 
 <!---
 d2messm/d2messm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
